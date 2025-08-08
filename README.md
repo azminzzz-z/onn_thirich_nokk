@@ -1,26 +1,26 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# [onn_thirich_nokk] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Nameless]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Adwaidh S.S] - [College of engineering perumon]
+- Member 2: [Azminsha.N] - [College of engineering perumon]
+
 
 ### Project Description
-[2-3 lines about what your project does]
+[An online Rubik’s Cube that challenges your perception by swapping opposite colors at regular intervals, adding a dynamic twist to the classic puzzle. Just when you think you're close to solving it, the shifting colors force you to rethink your strategy.]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[regular rubix cube being boring?]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[simply makimg the complicated rubix cube even more complex!]
 
 ## Technical Details
 ### Technologies/Components Used
