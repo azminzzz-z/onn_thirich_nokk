@@ -13,6 +13,11 @@
 - Member 2: [Azminsha.N] - [College of engineering perumon]
 
 
+
+
+
+
+
 ### Project Description
 [An online Rubik’s Cube that challenges your perception by swapping opposite colors at regular intervals, adding a dynamic twist to the classic puzzle. Just when you think you're close to solving it, the shifting colors force you to rethink your strategy.]
 
