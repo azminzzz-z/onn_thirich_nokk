@@ -1,7 +1,7 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [onn_thirich_nokk] 🎯
+# [reverse_snake] 🎯
 
 
 ## Basic Details
@@ -13,26 +13,21 @@
 - Member 2: [Azminsha.N] - [College of engineering perumon]
 
 
-
-
-
-
-
 ### Project Description
-[An online Rubik’s Cube that challenges your perception by swapping opposite colors at regular intervals, adding a dynamic twist to the classic puzzle. Just when you think you're close to solving it, the shifting colors force you to rethink your strategy.]
+[A mini model of the nostalgic snake game of our childhood]
 
 ### The Problem (that doesn't exist)
-[regular rubix cube being boring?]
+[bored of the usual snake game]
 
 ### The Solution (that nobody asked for)
-[simply makimg the complicated rubix cube even more complex!]
+[just reverse the entire snake game and dont let the snake eat the food]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- [python]
 - [Frameworks used]
-- [Libraries used]
+- [pygame,numpy,sys,math,random,time]
 - [Tools used]
 
 For Hardware:
@@ -43,22 +38,22 @@ For Hardware:
 ### Implementation
 For Software:
 # Installation
-[commands]
+[numpy,PyOpenGL,pygame]
 
 # Run
-[commands]
+[py planc.py]
 
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+# Screenshots (Add at least 3)!
+[https://drive.google.com/drive/folders/1kOenlAlwQfOmlO3lsEONjbvA2_9r5V9q?usp=drive_link](Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![https://drive.google.com/drive/folders/1kOenlAlwQfOmlO3lsEONjbvA2_9r5V9q?usp=drive_link](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
+![https://drive.google.com/drive/folders/1kOenlAlwQfOmlO3lsEONjbvA2_9r5V9q?usp=drive_link](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
 
 # Diagrams
@@ -86,16 +81,16 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+[https://drive.google.com/drive/folders/1kOenlAlwQfOmlO3lsEONjbvA2_9r5V9q?usp=drive_link]
 *Explain what the video demonstrates*
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Adwaidh S.S]: [Basic coding]
+- [Azminsha.N]: [UI/UX design]
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
